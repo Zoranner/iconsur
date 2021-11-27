@@ -4,7 +4,7 @@
   "main": "src/index.js",
   "license": "MIT",
   "scripts": {
-    "build": "pkg . --targets node10-macos-x64 --output dist/iconsur --debug"
+    "build": "pkg . --targets node10-macos-x64 --output /Users/Zoranner/Projects/batch/iconsur/iconsur --debug"
   },
   "bin": {
     "iconsur": "src/index.js"
